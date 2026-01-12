@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "^^",
+  "base_artist": "當山　みれい",
+  "createdAt": "2026-01-12T15:52:25.643717Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "^^",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_^^_當山みれい.txt"
+    }
+  ]
+}
